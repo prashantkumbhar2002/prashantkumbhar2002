@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Prashant Kumbhar
-#### Undergraduate Student pursuing B Tech(CSE) and learning the Computer Programming skills.
-
+#### Undergraduate Student pursuing B Tech(CSE) 
+#### Learner
+#### Problem Solver
 
 🌱 I’m currently learning Cloud Computing, AI-ML and Data Science
 
