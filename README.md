@@ -6,7 +6,7 @@
 
 💬 Ask me about Data Analytics, Data Science, Artificial Intelligence
 
-🤔 I’m looking for help with getting Internship
+🤔 I’m looking for help with getting Internship on any of the domain.
 
 📫 How to reach me: Connect with me on LinkedIn https://www.linkedin.com/in/prashant-kumbhar-27b970221/
 <!--
