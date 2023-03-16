@@ -1,4 +1,7 @@
-### Hi there 👋 Prashant Kumbhar
+### Hi there 👋 I'm Prashant Kumbhar
+#### Undergraduate Student pursuing CSE
+
+🌱 I’m currently learning AI ML and Data Science
 
 <!--
 **prashantkumbhar2002/prashantkumbhar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
