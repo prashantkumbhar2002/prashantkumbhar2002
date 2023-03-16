@@ -5,6 +5,8 @@
 🌱 I’m currently learning AI ML and Data Science
 
 💬 Ask me about Data Analytics, Data Science, Artificial Intelligence
+
+📫 How to reach me: Connect with me on LinkedIn https://www.linkedin.com/in/prashant-kumbhar-27b970221/
 <!--
 **prashantkumbhar2002/prashantkumbhar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
