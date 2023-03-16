@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Cloud Computing, AI-ML and Data Science
 
-💬 Ask me about Data Analytics, Data Science, Artificial Intelligence, Machine Learning, SQL and Programming languages like C, Python, Java and SQL
+💬 Ask me about Data Science, Artificial Intelligence, Machine Learning, Database and SQL, Programming languages like C, Python, Java along with kotlin
 
 🤔 I’m looking for help with getting Internship on any of the domain.
 
