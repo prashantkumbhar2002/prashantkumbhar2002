@@ -5,9 +5,9 @@
 
 🌱 I’m currently learning Cloud Computing, AI-ML and Data Science
 
-💬 Ask me about Data Science, Artificial Intelligence, Machine Learning, Database and SQL, Programming languages like C, Python, Java along with kotlin
+💬 Ask me about Web Development, Data Science, Artificial Intelligence, Machine Learning, Database and SQL, Programming languages like C, Python, Java along with kotlin
 
-🤔 I’m looking for help with getting Internship on any of the domain.
+🤔 I’m looking for help with getting Internship.
 
 📫 How to reach me: Connect with me on LinkedIn https://www.linkedin.com/in/prashant-kumbhar-27b970221/
 
