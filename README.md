@@ -1,13 +1,8 @@
 ## Hi there 👋 I'm Prashant Kumbhar
 #### Undergraduate Student pursuing B Tech(CSE) 
 #### Learner
-#### Problem Solver
-
-🌱 I’m currently learning Cloud Computing, AI-ML and Data Science
 
 💬 Ask me about Web Development, Machine Learning, Database, SQL, Programming languages like C, Python, Java, Javascript 
-
-🤔 I’m looking for help with getting Internship.
 
 📫 How to reach me: Connect with me on LinkedIn https://www.linkedin.com/in/prashant-kumbhar-27b970221/
 
