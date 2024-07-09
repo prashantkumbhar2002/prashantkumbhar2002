@@ -1,10 +1,12 @@
 ## Hi there 👋 I'm Prashant Kumbhar
-#### Undergraduate Student pursuing B Tech(CSE) 
-#### Learner
+#### Graduate B Tech(CSE) 
+#### Learner || Software Developer
 
-💬 Ask me about Web Development, Machine Learning, Database, SQL, Programming languages like C, Python, Java, Javascript 
+💬 Ask me about Web Development, Javascript, NodeJs, ExpressJs, MongoDB, SQL, Programming languages like C, Python, Java 
 
-📫 How to reach me: Connect with me on LinkedIn https://www.linkedin.com/in/prashant-kumbhar-27b970221/
+📫 How to reach me: Connect with me on LinkedIn [https://www.linkedin.com/in/prashant-kumbhar-27b970221](https://www.linkedin.com/in/prashant-kumbhar-27b970221)
+
+💼 I’m currently working as Associate Engineer at [kore.ai](https://kore.ai).
 
 ⚡ Fun fact: I'm an Introvert 😅
 <!--
@@ -13,7 +15,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
