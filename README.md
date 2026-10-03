@@ -1,21 +1,32 @@
 ## Hi 👋 I'm Prashant Kumbhar
 
-### Backend Software Engineer
+### Backend Software Engineer · AI Agent Platform
 
-I’m a backend engineer focused on building **scalable, secure, and production-grade systems**.
-I work primarily with **Node.js, Go, MongoDB, Kafka, Redis**, and have hands-on experience designing **authentication services, data pipelines, and distributed microservices**.
+I'm a backend engineer focused on building **scalable, reliable, production-grade Aegentic AI platform**.
+I work primarily with **Node.js, Go, MongoDB, Kafka, Redis**, and I've spent time on **auth services, data pipelines, distributed microservices**, and **agent execution runtimes**.
 
-Currently, I’m building and scaling backend services at **[Kore.ai](https://kore.ai)**, working on platform-level problems around **Auth, Analytics, and Reliability**.
+Currently, I'm a Software Engineer at **[Kore.ai](https://kore.ai)**, working on the agent platform: how agents execute, coordinate, recover from failure, and get evaluated.
 
 ---
 
-### 🧠 What I work on
+### 🤖 What I'm working on now
+
+* **Agent Runtime**: execution, reasoning, tool calling, LLM interactions, state management, retries, timeouts and overall runtime reliability for ABL-based agents
+* **Multi-agent orchestration**: Handoff, Delegation, Supervisor, Orchestrator-Worker and Fan-out patterns, including nested execution, context propagation and parallel runs
+* **Arch**: an AI-native developer copilot for building agents, covering streaming, session management, tool execution, recovery and tracing
+* **Agent evaluation & observability**: an evaluation framework for offline and regression testing (LLM-as-a-Judge, code, trajectory and human scoring), plus tracing and token/cost tracking
+
+The way I see it, same backend instincts (idempotency, retries, event-driven design, failure handling), different substrate.
+
+---
+
+### 🧠 What I've worked on before
 
 * Backend microservices & APIs (Node.js, Go)
 * Authentication & authorization (OAuth2, OIDC, JWT, RBAC)
-* Distributed systems & messaging (Kafka, gRPC)
-* Databases & data platforms (MongoDB, ClickHouse, MySQL)
-* Production debugging, reliability, and performance tuning
+* Analytics pipelines and real-time data platforms (Go, Kafka, ClickHouse)
+* Monolith decomposition, Kubernetes deployments, CDC pipelines
+* Production debugging, reliability and performance tuning
 
 ---
 
@@ -23,23 +34,10 @@ Currently, I’m building and scaling backend services at **[Kore.ai](https://ko
 
 * **Languages:** JavaScript, Go, Java, Python
 * **Backend:** Node.js, Express, REST, gRPC
-* **Databases:** MongoDB, ClickHouse, MySQL
-* **Messaging & Infra:** Kafka, RabbitMQ, Redis, Docker, Kubernetes, Nginx
+* **Databases:** MongoDB, ClickHouse, PostgreSQL, MySQL
+* **Messaging & Infra:** Kafka, RabbitMQ, Redis, Docker, Kubernetes, Nginx, ArgoCD
+* **Agents & AI:** multi-agent orchestration, LLM integrations, evals, Restate (durable execution)
 * **Security:** OAuth2, OIDC, JWT, RBAC
-
----
-
-### 💼 Experience
-
-* Software Engineer at **Kore.ai** — building platform services used across multiple enterprise products
-* Experience with **monolith decomposition, Kubernetes deployments, CDC pipelines, and real-time analytics systems**
-
----
-
-### 🌱 Currently learning
-
-* Backend system design at scale
-* AI-ready backend patterns (data pipelines, secure access to AI systems)
 
 ---
 
@@ -47,7 +45,3 @@ Currently, I’m building and scaling backend services at **[Kore.ai](https://ko
 
 * LinkedIn: [Prashant Kumbhar](https://www.linkedin.com/in/prashant-kumbhar-27b970221)
 * Email: [prashantkumbhar5515@gmail.com](mailto:prashantkumbhar5515@gmail.com)
-
----
-
-⚡ **Fun fact:** Quiet by nature, but very loud when debugging production issues 😄
